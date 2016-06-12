@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="FullSignature">
+  <Class Name="Expense_App.frm_About">
+    <Position X="1.5" Y="2" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>frm_About.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expense_App.frm_AddExpense">
+    <Position X="10" Y="2" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACQAEiAAABACAACAACICAAABAEAaIFAAAAAAAAA=</HashCode>
+      <FileName>frm_AddExpense.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expense_App.frm_Category">
+    <Position X="19.75" Y="2" Width="4" />
+    <TypeIdentifier>
+      <HashCode>FIAAAAAAACAAABAAAICBAAACAgAAwEEYAAAAAIAAAQQ=</HashCode>
+      <FileName>frm_Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expense_App.frm_Dasboard">
+    <Position X="24.5" Y="2" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>ADQTUkADAzY5AFaDBAKEIBACJQgAwGBQAJABCQUBRhQ=</HashCode>
+      <FileName>frm_Dasboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expense_App.frm_EditCategory">
+    <Position X="15.25" Y="2" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAABAAAACAAAQCAAAAAAAAAAAIAAAEAAA=</HashCode>
+      <FileName>frm_EditCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expense_App.frm_Main">
+    <Position X="5.5" Y="2" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>wAAAAAABBCABAAAAAACAABAiAAAAAEAQBAAAIAAkAAA=</HashCode>
+      <FileName>frm_Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expense_App.frm_Manual">
+    <Position X="30" Y="2" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>frm_Manual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expense_App.Infomation">
+    <Position X="19.5" Y="13" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAEAAAAAAAAACAAAAAEAQAAgAAAAAIAA=</HashCode>
+      <FileName>Infomation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expense_App.Product">
+    <Position X="7.25" Y="13.25" Width="7.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAgAAAAAAEAQAAAAAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expense_App.Program" Collapsed="true">
+    <Position X="33.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expense_App.Properties.Resources">
+    <Position X="17.25" Y="13" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Internal" Collapsed="true" />
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAABEAAABQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expense_App.Properties.Settings" Collapsed="true">
+    <Position X="35" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object">
+    <Position X="14.5" Y="9.25" Width="3.25" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

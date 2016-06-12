@@ -1,0 +1,28 @@
+c:\users\anh4e\documents\visual studio 2013\Projects\Expense_App\Expense_App\bin\Debug\Expense_App.exe.config
+c:\users\anh4e\documents\visual studio 2013\Projects\Expense_App\Expense_App\bin\Debug\Expense_App.exe
+c:\users\anh4e\documents\visual studio 2013\Projects\Expense_App\Expense_App\bin\Debug\Expense_App.pdb
+c:\users\anh4e\documents\visual studio 2013\Projects\Expense_App\Expense_App\obj\Debug\Expense_App.csprojResolveAssemblyReference.cache
+c:\users\anh4e\documents\visual studio 2013\Projects\Expense_App\Expense_App\obj\Debug\Expense_App.frm_Category.resources
+c:\users\anh4e\documents\visual studio 2013\Projects\Expense_App\Expense_App\obj\Debug\Expense_App.frm_Dasboard.resources
+c:\users\anh4e\documents\visual studio 2013\Projects\Expense_App\Expense_App\obj\Debug\Expense_App.frm_Main.resources
+c:\users\anh4e\documents\visual studio 2013\Projects\Expense_App\Expense_App\obj\Debug\Expense_App.Properties.Resources.resources
+c:\users\anh4e\documents\visual studio 2013\Projects\Expense_App\Expense_App\obj\Debug\Expense_App.csproj.GenerateResource.Cache
+c:\users\anh4e\documents\visual studio 2013\Projects\Expense_App\Expense_App\obj\Debug\Expense_App.exe
+c:\users\anh4e\documents\visual studio 2013\Projects\Expense_App\Expense_App\obj\Debug\Expense_App.pdb
+c:\users\anh4e\documents\visual studio 2013\Projects\Expense_App\Expense_App\obj\Debug\Expense_App.frm_AddExpense.resources
+C:\Users\anh4e\documents\visual studio 2013\Projects\Expense_App\Expense_App\obj\Debug\Expense_App.frm_EditCategory.resources
+C:\Users\anh4e\Desktop\Expense_App\Expense_App\bin\Debug\Expense_App.exe.config
+C:\Users\anh4e\Desktop\Expense_App\Expense_App\obj\Debug\Expense_App.exe
+C:\Users\anh4e\Desktop\Expense_App\Expense_App\obj\Debug\Expense_App.pdb
+C:\Users\anh4e\Desktop\Expense_App\Expense_App\bin\Debug\Expense_App.exe
+C:\Users\anh4e\Desktop\Expense_App\Expense_App\bin\Debug\Expense_App.pdb
+C:\Users\anh4e\Desktop\Expense_App\Expense_App\obj\Debug\Expense_App.csprojResolveAssemblyReference.cache
+C:\Users\anh4e\Desktop\Expense_App\Expense_App\obj\Debug\Expense_App.frm_EditCategory.resources
+C:\Users\anh4e\Desktop\Expense_App\Expense_App\obj\Debug\Expense_App.frm_AddExpense.resources
+C:\Users\anh4e\Desktop\Expense_App\Expense_App\obj\Debug\Expense_App.frm_Category.resources
+C:\Users\anh4e\Desktop\Expense_App\Expense_App\obj\Debug\Expense_App.frm_Dasboard.resources
+C:\Users\anh4e\Desktop\Expense_App\Expense_App\obj\Debug\Expense_App.frm_Main.resources
+C:\Users\anh4e\Desktop\Expense_App\Expense_App\obj\Debug\Expense_App.Properties.Resources.resources
+C:\Users\anh4e\Desktop\Expense_App\Expense_App\obj\Debug\Expense_App.csproj.GenerateResource.Cache
+C:\Users\anh4e\Desktop\Expense_App\Expense_App\obj\Debug\Expense_App.frm_About.resources
+C:\Users\anh4e\Desktop\Expense_App\Expense_App\obj\Debug\Expense_App.frm_Manual.resources
